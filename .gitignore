@@ -1,0 +1,8 @@
+src/*
+mysql/*
+redis/*
+
+# exception to the rule
+!src/.gitkeep
+!mysql/.gitkeep
+!redis/.gitkeep
